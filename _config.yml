@@ -3,7 +3,7 @@ email: "zteitler@boisestate.edu"
 description: >- # this means to ignore newlines until "baseurl:"
   Course site for Math 598, Fall 2020, at Boise State University, taught by Zach Teitler
 url: "https://zteitler.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "2020C-598" # the subpath of your site, e.g. /blog
+baseurl: "/2020C-598" # the subpath of your site, e.g. /blog
 #twitter_username: jekyllrb
 github_username:  zteitler
 
