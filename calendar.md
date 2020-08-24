@@ -12,7 +12,7 @@ title: Calendar
 | Friday, September 11 | TBA |
 | Friday, September 18 | TBA |
 | Friday, September 25 | TBA |
-| Friday, October 2 | TBA |
+| Friday, October 2 | Jens Harlander |
 | Friday, October 9 | TBA |
 | Friday, October 16 | TBA |
 | Friday, October 23 | TBA |
