@@ -3,6 +3,8 @@ layout: page
 title: Calendar
 ---
 
+## Calendar
+
 | Date | Topic |
 | :--- | :--- |
 | Friday, August 28 | Introduction |
