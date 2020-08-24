@@ -1,4 +1,8 @@
 
+# 2020C-598
+
+Course site for Math 598, Fall 2020, Boise State University, taught by Zach Teitler.
+
 # Boostrap 4 Github Pages
 
 [![Build Status](https://travis-ci.org/nicolas-van/bootstrap-4-github-pages.svg?branch=master)](https://travis-ci.org/nicolas-van/bootstrap-4-github-pages)
