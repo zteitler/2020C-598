@@ -8,7 +8,7 @@ title: Calendar
 | Date | Topic |
 | :--- | :--- |
 | Friday, August 28 | Introduction |
-| Friday, September 4 | TBA |
+| Friday, September 4 | Goals |
 | Friday, September 11 | TBA |
 | Friday, September 18 | TBA |
 | Friday, September 25 | TBA |
