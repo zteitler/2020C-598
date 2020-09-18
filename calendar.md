@@ -11,7 +11,7 @@ title: Calendar
 | Friday, September 4 | Goals |
 | Friday, September 11 | [Alumni panel]( {{ "/sessions/2020-09-11" | relative_url }}) |
 | Friday, September 18 | [Kayla Krakoff]( {{ "/sessions/2020-09-18" | relative_url }}) |
-| Friday, September 25 | TBA |
+| Friday, September 25 | [Program requirements]( {{ "/sessions/2020-09-25" | relative_url }}) |
 | Friday, October 2 | Jens Harlander |
 | Friday, October 9 | TBA |
 | Friday, October 16 | TBA |
