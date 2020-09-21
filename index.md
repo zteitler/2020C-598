@@ -14,3 +14,5 @@ Research presentations by faculty and graduate students.
 ### [Syllabus](syllabus)
 
 ### [Calendar](calendar)
+
+### [Assignments](assignments)
