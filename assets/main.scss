@@ -17,6 +17,15 @@ header.post-header {
   margin-bottom: 0;
 }
 
+ol ol {
+  list-style-type: lower-alpha;
+  li:last-child {margin-bottom: 1em}
+}
+ol ol ol {
+  list-style-type: lower-roman;
+  li:last-child {margin-bottom: 1em}
+}
+
 dl {
   display: grid;
   grid-gap: 1em;
