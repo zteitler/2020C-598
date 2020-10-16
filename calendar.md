@@ -14,8 +14,8 @@ title: Calendar
 | Friday, September 25 | [Program requirements]( {{ "/sessions/2020-09-25" | relative_url }}) |
 | Friday, October 2 | [Jens Harlander]( {{ "/sessions/2020-10-02" | relative_url }}) |
 | Friday, October 9 | [Attending math talks]( {{ "/sessions/2020-10-09" | relative_url }}) |
-| Friday, October 16 | TBA |
-| Friday, October 23 | TBA |
+| Friday, October 16 | Finding and reading math papers |
+| Friday, October 23 | No meeting: [Kaitlyn Summer Ware's M.S. Defense](https://www.boisestate.edu/graduatecollege/details/graduate-defense-kaitlyn-summer-ware/) |
 | Friday, October 30 | TBA |
 | Friday, November 6 | TBA |
 | Friday, November 13 | TBA |
