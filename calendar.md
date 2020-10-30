@@ -16,7 +16,7 @@ title: Calendar
 | Friday, October 9 | [Attending math talks]( {{ "/sessions/2020-10-09" | relative_url }}) |
 | Friday, October 16 | Finding and reading math papers |
 | Friday, October 23 | No meeting: [Kaitlyn Summer Ware's M.S. Defense](https://www.boisestate.edu/graduatecollege/details/graduate-defense-kaitlyn-summer-ware/) |
-| Friday, October 30 | TBA |
-| Friday, November 6 | TBA |
+| Friday, October 30 | Q&A and discussion: Defenses, teaching, classes |
+| Friday, November 6 | Presenting mathematics |
 | Friday, November 13 | TBA |
 | Friday, November 20 | TBA |
