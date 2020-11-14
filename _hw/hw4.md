@@ -42,11 +42,14 @@ Just a few examples are here:
    [Lathisms](https://www.lathisms.org)
    and [Mathematically Gifted & Black](https://mathematicallygiftedandblack.com).
 
-3. Research institutes and summer workshops such as
+3. Research institutes such as
    [MSRI](https://www.msri.org/),
    [ICERM](https://icerm.brown.edu),
    [AIM](https://aimath.org),
+   [MBI](https://mbi.osu.edu);
+   major workshops such as
    [PCMI](https://www.ias.edu/pcmi),
+   [Arizona Winter School](https://www.math.arizona.edu/~swc/),
    and more.
 
 Choose one from each of the three categories.
@@ -64,10 +67,9 @@ that would make sense to a math student or teacher.
 Please use LaTeX and produce a PDF.
 For readability, please:
 
-+ Use margins of at least 1" (2.5cm)
++ Use margins of at least 1" (2.54cm)
 
 + Use a 12pt option such as `\documentclass[12pt]{article}`
 
 + Use `\linespread{2.4}` to get double-spaced lines
 
-+ Include your name in the PDF!
