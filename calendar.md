@@ -20,3 +20,4 @@ title: Calendar
 | Friday, November 6 | Presenting mathematics |
 | Friday, November 13 | TBA |
 | Friday, November 20 | TBA |
+| Friday, December 4 | [Zach Teitler]( {{ "/sessions/2020-12-04" | relative_url }}) |
